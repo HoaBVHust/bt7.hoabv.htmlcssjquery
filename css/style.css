@@ -1,0 +1,19 @@
+body {
+	height: 100%;
+	background-color: rgba(24, 242, 239, 0.1);
+	background-size: cover;
+	background-repeat: none;
+}
+
+small.error {
+	color: red;
+}
+label.error {
+	color: red;
+}
+small.success {
+	color: blue;
+}
+label.success {
+	color: blue;
+}
